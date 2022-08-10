@@ -1,2 +1,2 @@
-# Malloc
-The implementation of malloc
+# malloclab
+Carefully read malloclab.pdf in its entirety.
